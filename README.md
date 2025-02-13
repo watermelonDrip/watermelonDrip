@@ -1,5 +1,5 @@
 ## Hi there 👋
-I love marathon.
+I love marathon. A coder, runner.
 <!--
 **watermelonDrip/watermelonDrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
